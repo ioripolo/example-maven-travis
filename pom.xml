@@ -18,6 +18,44 @@
     <url>https://github.com/BlackDuckCoPilot/example-maven-travis</url>
   </scm>
 
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-enforcer-plugin</artifactId>
+        <version>3.0.0-M2</version>
+        <executions>
+          <execution>
+            <id>enforce-versions</id>
+            <goals>
+              <goal>enforce</goal>
+            </goals>
+            <configuration>
+              <rules>
+                <bannedPlugins>
+                  <!-- will only display a warning but does not fail the build. -->
+                  <level>WARN</level>
+                  <excludes>
+                    <exclude>javax.transaction:jta</exclude>
+                  </excludes>
+                </bannedPlugins>
+                <requireMavenVersion>
+                  <version>2.0.6</version>
+                </requireMavenVersion>
+                <requireJavaVersion>
+                  <version>1.5</version>
+                </requireJavaVersion>
+                <requireOS>
+                  <family>unix</family>
+                </requireOS>
+              </rules>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+
   <repositories>
     <repository>
       <id>maven2-repository.dev.java.net</id>
@@ -291,4 +329,11 @@
       <version>1.2.8.RELEASE</version>
     </dependency>
   </dependencies>
+
+  <exclusions>
+    <exclusion>
+      <groupId>javax.transaction</groupId>
+      <artifactId>jta</artifactId>
+    </exclusion>
+  </exclusions>
 </project>
