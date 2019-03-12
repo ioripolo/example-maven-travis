@@ -150,11 +150,6 @@
     </dependency>
     <dependency>
       <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-apps</artifactId>
-      <version>2.5.8</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
       <artifactId>struts2-archetype-angularjs</artifactId>
       <version>2.5.5</version>
     </dependency>
@@ -190,27 +185,7 @@
     </dependency>
     <dependency>
       <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-archetypes</artifactId>
-      <version>2.5.2</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-assembly</artifactId>
-      <version>2.5.8</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
       <artifactId>struts2-bean-validation-plugin</artifactId>
-      <version>2.5.8</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-blank</artifactId>
-      <version>2.3.8</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-bom</artifactId>
       <version>2.5.8</version>
     </dependency>
     <dependency>
@@ -280,11 +255,6 @@
     </dependency>
     <dependency>
       <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-jboss-blank</artifactId>
-      <version>2.3.8</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
       <artifactId>struts2-jfreechart-plugin</artifactId>
       <version>2.5.8</version>
     </dependency>
@@ -302,11 +272,6 @@
       <groupId>org.apache.struts</groupId>
       <artifactId>struts2-junit-plugin</artifactId>
       <version>2.5.8</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-mailreader</artifactId>
-      <version>2.3.8</version>
     </dependency>
     <dependency>
       <groupId>org.apache.struts</groupId>
@@ -330,11 +295,6 @@
     </dependency>
     <dependency>
       <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-parent</artifactId>
-      <version>2.5.8</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
       <artifactId>struts2-pell-multipart-plugin</artifactId>
       <version>2.5.8</version>
     </dependency>
@@ -342,16 +302,6 @@
       <groupId>org.apache.struts</groupId>
       <artifactId>struts2-plexus-plugin</artifactId>
       <version>2.5.8</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-plugins</artifactId>
-      <version>2.5.8</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-portlet</artifactId>
-      <version>2.5.2</version>
     </dependency>
     <dependency>
       <groupId>org.apache.struts</groupId>
@@ -370,11 +320,6 @@
     </dependency>
     <dependency>
       <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-rest-showcase</artifactId>
-      <version>2.5.8</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
       <artifactId>struts2-secure-jakarta-multipart-parser-plugin</artifactId>
       <version>1.1</version>
     </dependency>
@@ -382,11 +327,6 @@
       <groupId>org.apache.struts</groupId>
       <artifactId>struts2-secure-jakarta-stream-multipart-parser-plugin</artifactId>
       <version>1.1</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-showcase</artifactId>
-      <version>2.5.8</version>
     </dependency>
     <dependency>
       <groupId>org.apache.struts</groupId>
