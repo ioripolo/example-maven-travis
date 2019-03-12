@@ -181,11 +181,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
-      <artifactId>spring-ojb</artifactId>
-      <version>2.0-rc2</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
       <artifactId>spring-orm</artifactId>
       <version>5.1.5.RELEASE</version>
     </dependency>
