@@ -92,6 +92,12 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-agent</artifactId>
       <version>2.5.6.SEC03</version>
+      <exclusions>
+        <exclusion>
+          <groupId>com.oracle.toplink</groupId>
+          <artifactId>toplink</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -172,6 +178,12 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-hibernate3</artifactId>
       <version>2.0.8</version>
+      <exclusions>
+        <exclusion>
+          <groupId>com.oracle.toplink</groupId>
+          <artifactId>toplink</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -187,6 +199,12 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-jca</artifactId>
       <version>2.0.8</version>
+      <exclusions>
+        <exclusion>
+          <groupId>com.oracle.toplink</groupId>
+          <artifactId>toplink</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -247,11 +265,23 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-portlet</artifactId>
       <version>2.0.8</version>
+      <exclusions>
+        <exclusion>
+          <groupId>com.oracle.toplink</groupId>
+          <artifactId>toplink</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-remoting</artifactId>
       <version>2.0.8</version>
+      <exclusions>
+        <exclusion>
+          <groupId>com.oracle.toplink</groupId>
+          <artifactId>toplink</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -262,6 +292,12 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-support</artifactId>
       <version>2.0.8</version>
+      <exclusions>
+        <exclusion>
+          <groupId>com.oracle.toplink</groupId>
+          <artifactId>toplink</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -272,11 +308,23 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-tomcat-weaver</artifactId>
       <version>2.5.6.SEC03</version>
+      <exclusions>
+        <exclusion>
+          <groupId>com.oracle.toplink</groupId>
+          <artifactId>toplink</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-toplink</artifactId>
       <version>2.0.8</version>
+      <exclusions>
+        <exclusion>
+          <groupId>com.oracle.toplink</groupId>
+          <artifactId>toplink</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -297,6 +345,12 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-webflow</artifactId>
       <version>1.0.6</version>
+      <exclusions>
+        <exclusion>
+          <groupId>com.oracle.toplink</groupId>
+          <artifactId>toplink</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -317,6 +371,12 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc-struts</artifactId>
       <version>2.5.6.SEC03</version>
+      <exclusions>
+        <exclusion>
+          <groupId>com.oracle.toplink</groupId>
+          <artifactId>toplink</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -327,6 +387,12 @@
       <groupId>org.springframework</groupId>
       <artifactId>springloaded</artifactId>
       <version>1.2.8.RELEASE</version>
+      <exclusions>
+        <exclusion>
+          <groupId>com.oracle.toplink</groupId>
+          <artifactId>toplink</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
   </dependencies>
 </project>
