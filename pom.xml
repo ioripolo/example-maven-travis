@@ -85,28 +85,8 @@
     </dependency>
     <dependency>
       <groupId>struts</groupId>
-      <artifactId>struts-bean</artifactId>
-      <version>1.2.8</version>
-    </dependency>
-    <dependency>
-      <groupId>struts</groupId>
-      <artifactId>struts-bean-el</artifactId>
-      <version>1.2.8</version>
-    </dependency>
-    <dependency>
-      <groupId>struts</groupId>
       <artifactId>struts-el</artifactId>
       <version>1.2.9</version>
-    </dependency>
-    <dependency>
-      <groupId>struts</groupId>
-      <artifactId>struts-html</artifactId>
-      <version>1.2.8</version>
-    </dependency>
-    <dependency>
-      <groupId>struts</groupId>
-      <artifactId>struts-html-el</artifactId>
-      <version>1.2.8</version>
     </dependency>
     <dependency>
       <groupId>struts</groupId>
@@ -115,38 +95,8 @@
     </dependency>
     <dependency>
       <groupId>struts</groupId>
-      <artifactId>struts-logic</artifactId>
-      <version>1.2.8</version>
-    </dependency>
-    <dependency>
-      <groupId>struts</groupId>
-      <artifactId>struts-logic-el</artifactId>
-      <version>1.2.8</version>
-    </dependency>
-    <dependency>
-      <groupId>struts</groupId>
-      <artifactId>struts-nested</artifactId>
-      <version>1.2.8</version>
-    </dependency>
-    <dependency>
-      <groupId>struts</groupId>
       <artifactId>struts-scripting</artifactId>
       <version>1.0.1</version>
-    </dependency>
-    <dependency>
-      <groupId>struts</groupId>
-      <artifactId>struts-template</artifactId>
-      <version>1.1-rc2</version>
-    </dependency>
-    <dependency>
-      <groupId>struts</groupId>
-      <artifactId>struts-tiles</artifactId>
-      <version>1.2.8</version>
-    </dependency>
-    <dependency>
-      <groupId>struts</groupId>
-      <artifactId>struts-tiles-el</artifactId>
-      <version>1.2.8</version>
     </dependency>
     <dependency>
       <groupId>org.apache.struts</groupId>
@@ -378,12 +328,6 @@
       <artifactId>struts2-osgi-admin-bundle</artifactId>
       <version>2.5.8</version>
     </dependency>
-    <dependency>
-      <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-osgi-bundles</artifactId>
-      <version>2.5.8</version>
-    </dependency>
-    <dependency>
       <groupId>org.apache.struts</groupId>
       <artifactId>struts2-osgi-demo-bundle</artifactId>
       <version>2.5.8</version>
