@@ -79,29 +79,79 @@
 
   <dependencies>
     <dependency>
-      <groupId>org.springframework.amqp</groupId>
-      <artifactId>spring-amqp</artifactId>
-      <version>2.1.4.RELEASE</version>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>simple-cli-archetype</artifactId>
+      <version>1.1.4.RELEASE</version>
     </dependency>
     <dependency>
-      <groupId>org.springframework.amqp</groupId>
-      <artifactId>spring-erlang</artifactId>
-      <version>1.4.6.RELEASE</version>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch</artifactId>
+      <version>2.0.4.RELEASE</version>
     </dependency>
     <dependency>
-      <groupId>org.springframework.amqp</groupId>
-      <artifactId>spring-rabbit</artifactId>
-      <version>2.1.4.RELEASE</version>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-admin-manager</artifactId>
+      <version>1.3.1.RELEASE</version>
     </dependency>
     <dependency>
-      <groupId>org.springframework.amqp</groupId>
-      <artifactId>spring-rabbit-junit</artifactId>
-      <version>2.1.4.RELEASE</version>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-admin-parent</artifactId>
+      <version>1.3.1.RELEASE</version>
     </dependency>
     <dependency>
-      <groupId>org.springframework.amqp</groupId>
-      <artifactId>spring-rabbit-test</artifactId>
-      <version>2.1.4.RELEASE</version>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-admin-resources</artifactId>
+      <version>1.3.1.RELEASE</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-archetypes</artifactId>
+      <version>1.1.4.RELEASE</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-core</artifactId>
+      <version>4.1.1.RELEASE</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-docs</artifactId>
+      <version>4.1.1.RELEASE</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-infrastructure</artifactId>
+      <version>4.1.1.RELEASE</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-infrastructure-tests</artifactId>
+      <version>1.1.4.RELEASE</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-integration</artifactId>
+      <version>4.1.1.RELEASE</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-parent</artifactId>
+      <version>2.2.7.RELEASE</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-samples</artifactId>
+      <version>1.1.4.RELEASE</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-test</artifactId>
+      <version>4.1.1.RELEASE</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-tuple</artifactId>
+      <version>1.0.0.RELEASE</version>
     </dependency>
   </dependencies>
 </project>
