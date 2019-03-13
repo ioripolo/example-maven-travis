@@ -360,11 +360,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-security-test-web-helloworld</artifactId>
-      <version>1.5.9.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-security-tests</artifactId>
       <version>1.5.7.RELEASE</version>
     </dependency>
