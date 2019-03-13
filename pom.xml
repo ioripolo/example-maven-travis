@@ -200,11 +200,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-gradle-tests</artifactId>
-      <version>1.5.7.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-launch-script-tests</artifactId>
       <version>1.5.7.RELEASE</version>
     </dependency>
