@@ -85,16 +85,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.amqp</groupId>
-      <artifactId>spring-amqp-dist</artifactId>
-      <version>1.6.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.amqp</groupId>
-      <artifactId>spring-amqp-parent</artifactId>
-      <version>1.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.amqp</groupId>
       <artifactId>spring-erlang</artifactId>
       <version>1.4.6.RELEASE</version>
     </dependency>
