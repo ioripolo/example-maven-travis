@@ -109,6 +109,12 @@
       <groupId>struts</groupId>
       <artifactId>struts-scripting</artifactId>
       <version>1.0.1</version>
+      <exclusions>
+        <exclusion>
+          <groupId>struts</groupId>
+          <artifactId>struts-mailreader</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.apache.struts</groupId>
