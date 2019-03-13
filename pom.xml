@@ -100,16 +100,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-alibaba</artifactId>
-      <version>0.2.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-alibaba-dependencies</artifactId>
-      <version>0.2.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-alibaba-docs</artifactId>
       <version>0.2.1.RELEASE</version>
     </dependency>
@@ -270,11 +260,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-bus-parent</artifactId>
-      <version>2.1.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-bus-tests</artifactId>
       <version>2.1.0.RELEASE</version>
     </dependency>
@@ -287,11 +272,6 @@
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-cli-docs</artifactId>
       <version>1.0.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-cli-parent</artifactId>
-      <version>2.0.0.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
@@ -391,11 +371,6 @@
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-commons-dependencies</artifactId>
-      <version>2.1.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-commons-parent</artifactId>
       <version>2.1.0.RELEASE</version>
     </dependency>
     <dependency>
@@ -500,11 +475,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-contract-parent</artifactId>
-      <version>2.1.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-contract-shade</artifactId>
       <version>2.1.0.RELEASE</version>
     </dependency>
@@ -595,11 +565,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-dataflow-parent</artifactId>
-      <version>1.7.4.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-dataflow-registry</artifactId>
       <version>1.7.4.RELEASE</version>
     </dependency>
@@ -630,11 +595,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-dataflow-server-cloudfoundry-parent</artifactId>
-      <version>1.7.4.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-dataflow-server-core</artifactId>
       <version>1.7.4.RELEASE</version>
     </dependency>
@@ -646,16 +606,6 @@
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-dataflow-server-kubernetes-autoconfig</artifactId>
-      <version>1.7.3.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-dataflow-server-kubernetes-docs</artifactId>
-      <version>1.7.3.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-dataflow-server-kubernetes-parent</artifactId>
       <version>1.7.3.RELEASE</version>
     </dependency>
     <dependency>
@@ -675,16 +625,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-dataflow-server-mesos-docs</artifactId>
-      <version>1.0.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-dataflow-server-mesos-parent</artifactId>
-      <version>1.0.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-dataflow-server-yarn</artifactId>
       <version>1.2.0.RELEASE</version>
     </dependency>
@@ -700,17 +640,7 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-dataflow-server-yarn-docs</artifactId>
-      <version>1.2.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-dataflow-server-yarn-h2</artifactId>
-      <version>1.2.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-dataflow-server-yarn-parent</artifactId>
       <version>1.2.0.RELEASE</version>
     </dependency>
     <dependency>
@@ -735,11 +665,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-dataflow-skipper-docs</artifactId>
-      <version>1.7.4.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-dataflow-ui</artifactId>
       <version>1.7.3.RELEASE</version>
     </dependency>
@@ -747,11 +672,6 @@
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-dependencies</artifactId>
       <version>Greenwich.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-dependencies-parent</artifactId>
-      <version>2.1.3.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
@@ -780,18 +700,8 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-deployer-local-parent</artifactId>
-      <version>2.0.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-deployer-mesos</artifactId>
       <version>1.0.4.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-deployer-parent</artifactId>
-      <version>2.0.0.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
@@ -860,11 +770,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-deployer-yarn-parent</artifactId>
-      <version>1.2.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-deployer-yarn-tasklauncherappmaster</artifactId>
       <version>1.2.0.RELEASE</version>
     </dependency>
@@ -881,11 +786,6 @@
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-function-adapter-openwhisk</artifactId>
-      <version>2.0.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-function-adapter-parent</artifactId>
       <version>2.0.1.RELEASE</version>
     </dependency>
     <dependency>
@@ -916,11 +816,6 @@
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-function-kotlin</artifactId>
-      <version>2.0.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-function-parent</artifactId>
       <version>2.0.1.RELEASE</version>
     </dependency>
     <dependency>
@@ -992,11 +887,6 @@
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-gcp-dependencies</artifactId>
       <version>1.1.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-gcp-docs</artifactId>
-      <version>1.0.0.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
@@ -1185,11 +1075,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-netflix-docs</artifactId>
-      <version>1.0.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-netflix-eureka-client</artifactId>
       <version>2.1.0.RELEASE</version>
     </dependency>
@@ -1270,11 +1155,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-open-service-broker-docs</artifactId>
-      <version>2.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-openfeign</artifactId>
       <version>2.1.0.RELEASE</version>
     </dependency>
@@ -1290,11 +1170,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-parent</artifactId>
-      <version>1.0.4.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-scheduler-cloudfoundry</artifactId>
       <version>1.0.1.RELEASE</version>
     </dependency>
@@ -1302,11 +1177,6 @@
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-scheduler-kubernetes</artifactId>
       <version>1.0.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-scheduler-parent</artifactId>
-      <version>1.0.2.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
@@ -1335,11 +1205,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-security-parent</artifactId>
-      <version>2.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-skipper</artifactId>
       <version>1.1.4.RELEASE</version>
     </dependency>
@@ -1356,16 +1221,6 @@
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-skipper-dependencies</artifactId>
-      <version>1.1.4.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-skipper-docs</artifactId>
-      <version>1.1.4.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-skipper-parent</artifactId>
       <version>1.1.4.RELEASE</version>
     </dependency>
     <dependency>
@@ -1411,11 +1266,6 @@
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-sleuth-dependencies</artifactId>
-      <version>2.1.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-sleuth-docs</artifactId>
       <version>2.1.0.RELEASE</version>
     </dependency>
     <dependency>
@@ -1655,11 +1505,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-starter-docs</artifactId>
-      <version>1.0.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-starter-eureka</artifactId>
       <version>1.4.6.RELEASE</version>
     </dependency>
@@ -1807,11 +1652,6 @@
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-starter-openfeign</artifactId>
       <version>2.1.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-starter-parent</artifactId>
-      <version>Greenwich.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
@@ -1970,16 +1810,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-binder-kafka-docs</artifactId>
-      <version>2.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-binder-kafka-parent</artifactId>
-      <version>2.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-stream-binder-kafka-streams</artifactId>
       <version>2.1.1.RELEASE</version>
     </dependency>
@@ -2000,27 +1830,7 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-binder-kafka11-docs</artifactId>
-      <version>1.3.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-binder-kafka11-parent</artifactId>
-      <version>1.3.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-stream-binder-kinesis</artifactId>
-      <version>1.0.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-binder-kinesis-docs</artifactId>
-      <version>1.0.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-binder-kinesis-parent</artifactId>
       <version>1.0.0.RELEASE</version>
     </dependency>
     <dependency>
@@ -2045,27 +1855,12 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-binder-rabbit-docs</artifactId>
-      <version>2.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-binder-rabbit-parent</artifactId>
-      <version>2.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-stream-binder-rabbit-test-support</artifactId>
       <version>2.1.1.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-stream-binder-redis</artifactId>
-      <version>1.0.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-binder-redis-parent</artifactId>
       <version>1.0.0.RELEASE</version>
     </dependency>
     <dependency>
@@ -2085,28 +1880,13 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-binders-parent</artifactId>
-      <version>1.0.3.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-stream-codec</artifactId>
       <version>1.3.3.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-core-docs</artifactId>
-      <version>2.1.1.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-stream-dependencies</artifactId>
       <version>Fishtown.SR1</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-docs</artifactId>
-      <version>Elmhurst.SR2</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
@@ -2117,11 +1897,6 @@
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-stream-metrics</artifactId>
       <version>1.3.3.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-parent</artifactId>
-      <version>2.1.1.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
@@ -2146,11 +1921,6 @@
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-stream-starter-build</artifactId>
-      <version>Fishtown.SR1</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-stream-starter-parent</artifactId>
       <version>Fishtown.SR1</version>
     </dependency>
     <dependency>
@@ -2190,18 +1960,8 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-task-docs</artifactId>
-      <version>2.1.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-task-integration-tests</artifactId>
       <version>1.0.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-task-parent</artifactId>
-      <version>2.1.0.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
@@ -2255,11 +2015,6 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-vault-parent</artifactId>
-      <version>2.1.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-versions</artifactId>
       <version>1.0.6.RELEASE</version>
     </dependency>
@@ -2286,11 +2041,6 @@
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-zookeeper-discovery</artifactId>
-      <version>2.1.0.RELEASE</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.cloud</groupId>
-      <artifactId>spring-cloud-zookeeper-docs</artifactId>
       <version>2.1.0.RELEASE</version>
     </dependency>
   </dependencies>
