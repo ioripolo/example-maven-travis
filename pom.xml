@@ -102,7 +102,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-aop</artifactId>
-      <version>5.1.5.RELEASE</version>
+      <version>5.2.19.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -132,7 +132,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>5.1.5.RELEASE</version>
+      <version>5.2.19.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -142,7 +142,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context-support</artifactId>
-      <version>5.1.5.RELEASE</version>
+      <version>5.2.19.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -360,7 +360,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.1.5.RELEASE</version>
+      <version>5.2.19.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -381,7 +381,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-websocket</artifactId>
-      <version>5.1.5.RELEASE</version>
+      <version>5.2.19.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
